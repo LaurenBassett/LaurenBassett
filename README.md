@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<br>
+<p align='center'>
+  <img width = "49.5%" src="https://github-readme-stats.vercel.app/api?username=laurenbassett&theme=dracula&show_icons=true)"/>
+</p>
 
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=ArangoDB&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -35,7 +35,6 @@ class LaurenBassett():
     
   def __init__(self):
     self.name = "Lauren Bassett"
-    self.username = "laurenbassett"
     self.location = "Washington, DC"
     self.education = {
                      "Undergraduate" : {
@@ -64,12 +63,7 @@ class LaurenBassett():
 if __name__ == '__main__':
     me = LaurenBassett()
 ```
-<!--
 <br/>
 <p align='center'>
-<img width ="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurenbassett&theme=dracula" />
-
-
+<img width = '33.3%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurenbassett&theme=dracula" />
 <br>
-  <img width = "49.5%" src="https://github-readme-stats.vercel.app/api?username=laurenbassett&theme=dracula&show_icons=true)"/>
--->
