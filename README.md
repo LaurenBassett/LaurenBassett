@@ -64,7 +64,7 @@ class LaurenBassett():
 if __name__ == '__main__':
     me = LaurenBassett()
 ```
-
+<!--
 <br/>
 <p align='center'>
 <img width ="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurenbassett&theme=dracula" />
@@ -72,3 +72,4 @@ if __name__ == '__main__':
 
 <br>
   <img width = "49.5%" src="https://github-readme-stats.vercel.app/api?username=laurenbassett&theme=dracula&show_icons=true)"/>
+-->
