@@ -37,6 +37,12 @@ class LaurenBassett():
     self.name = "Lauren Bassett"
     self.location = "Washington, DC"
     self.education = {
+    
+                     "Graduate" : {
+                         "University of Virginia":{ 
+                             "College of Data Science": "Data Science"
+                         }
+                     }, 
                      "Undergraduate" : {
                         "University of Kentucky" :{
                          "College of Engineering": {
@@ -49,13 +55,8 @@ class LaurenBassett():
                               "Minor": "Statistics"
                             }                       
                         }
-                     },
-
-                     "Graduate" : {
-                         "University of Virginia":{ 
-                             "College of Data Science": "Data Science"
-                         }
                      }
+
                     }
   def __str__(self):
     return self.name
