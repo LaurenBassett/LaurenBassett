@@ -66,5 +66,5 @@ if __name__ == '__main__':
 ```
 <br/>
 <p align='center'>
-<img width = '33.3%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurenbassett&theme=dracula" />
+<img width = '33.3%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurenbassett&theme=dracula&hide=jupyter%20notebook,html" />
 <br>
