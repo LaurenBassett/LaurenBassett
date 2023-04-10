@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align='center'>
-  <img width = "49.5%" src="https://github-readme-stats.vercel.app/api?username=laurenbassett&theme=dracula&show_icons=true)"/>
-</p>
 
-<p>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
@@ -64,7 +60,4 @@ class LaurenBassett():
 if __name__ == '__main__':
     me = LaurenBassett()
 ```
-<br/>
-<p align='center'>
-<img width = '33.3%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurenbassett&theme=dracula&hide=jupyter%20notebook,html" />
-<br>
+
